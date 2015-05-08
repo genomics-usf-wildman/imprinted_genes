@@ -22,4 +22,7 @@ Catalog of Parent of Origin Effects Database
 Combined Data Files
 ===================
 
+imprinted_genes.txt -- contains a list of the imprinted genes
 
+imprinted_genes_information.txt -- contains the information for the
+list of the imprinted genes

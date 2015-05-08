@@ -16,5 +16,8 @@ geneimprint_human.txt: geneimprint_human.html parse_geneimprint.pl
 parent_of_origin.txt: parent_of_origin.html parse_parent_of_origin.pl
 	./parse_parent_of_origin.pl $< > $@
 
-combined_imprinted_genes.txt: combine_imprinted_genes.R geneimprint_human.txt parent_of_origin.txt
+imprinted_genes.txt: combine_imprinted_genes.R geneimprint_human.txt parent_of_origin.txt
 	$(R) $(ROPTS) -f $< --args $(wordlist 2,$(words $^),$^) $@
+
+imprinted_genes_information.txt: imprinted_genes.txt
+	~/projects/chaim/bin/gene_info < $< > $@
