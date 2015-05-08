@@ -10,3 +10,5 @@ parent_of_origin.html:
 geneimprint_human.txt: geneimprint_human.html parse_geneimprint.pl
 	./parse_geneimprint.pl $< > $@
 
+parent_of_origin.txt: parent_of_origin.html parse_parent_of_origin.pl
+	./parse_parent_of_origin.pl $< > $@
