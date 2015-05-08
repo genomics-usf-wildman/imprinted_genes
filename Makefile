@@ -1,5 +1,8 @@
 #!/usr/bin/make -f
 
+R=R
+ROPTS=-q --no-save --no-restore-data
+
 geneimprint_human.html:
 	wget -O $@ "http://www.geneimprint.com/site/genes-by-species.Homo+sapiens"
 
@@ -12,3 +15,6 @@ geneimprint_human.txt: geneimprint_human.html parse_geneimprint.pl
 
 parent_of_origin.txt: parent_of_origin.html parse_parent_of_origin.pl
 	./parse_parent_of_origin.pl $< > $@
+
+combined_imprinted_genes.txt: combine_imprinted_genes.R geneimprint_human.txt parent_of_origin.txt
+	$(R) $(ROPTS) -f $< --args $(wordlist 2,$(words $^),$^) $@
