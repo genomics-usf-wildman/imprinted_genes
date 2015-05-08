@@ -80,7 +80,7 @@ my $t = HTML::Tree->new_from_file($ARGV[0]) or
 # the table we want is currently the first table
 my $table = $t->look_down(_tag=>'table');
 for my $row ($table->look_down(_tag=>'tr')) {
-    print join("\t",map{my $a = $_->as_text(); $a =~ s/\xA0/ /g; $a;} $row->descendents())."\n";
+    print join("\t",map{my $a = $_->as_text(); $a =~ s/[\xA0\t]/ /g; $a;} $row->look_down(_tag => qr/^(?:th|td)$/))."\n";
 }
 
 
