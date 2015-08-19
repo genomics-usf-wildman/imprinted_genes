@@ -3,6 +3,8 @@
 R=R
 ROPTS=-q --no-save --no-restore-data
 
+all: imprinted_genes_information.txt
+
 geneimprint_human.html:
 	wget -O $@ "http://www.geneimprint.com/site/genes-by-species.Homo+sapiens"
 
@@ -16,7 +18,8 @@ geneimprint_human.txt: geneimprint_human.html parse_geneimprint.pl
 parent_of_origin.txt: parent_of_origin.html parse_parent_of_origin.pl
 	./parse_parent_of_origin.pl $< > $@
 
-imprinted_genes.txt: combine_imprinted_genes.R geneimprint_human.txt parent_of_origin.txt
+imprinted_genes.txt: combine_imprinted_genes.R geneimprint_human.txt \
+	parent_of_origin.txt gene_aliases.txt
 	$(R) $(ROPTS) -f $< --args $(wordlist 2,$(words $^),$^) $@
 
 imprinted_genes_information.txt: imprinted_genes.txt

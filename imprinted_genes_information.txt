@@ -1,304 +1,300 @@
 gene	chr	ideogram	complement	start	stop	name
-AIM1	6	6q21	0	106959730	107018335	absent in melanoma 1
-AMPD3	11	11p15.4	0	10471868	10529126	adenosine monophosphate deaminase 3
-ANO1	11	11q13.3	0	69924408	70035651	anoctamin 1, calcium activated chloride channel
-APC	5	5q22.2	0	112043202	112181936	adenomatous polyposis coli
-APS	NA	NA	NA	NA	NA	NA
-ASB4	7	7q21.3	0	95115213	95169543	ankyrin repeat and SOCS box containing 4
-ASCL2	11	11p15.5	1	2289728	2292182	achaete-scute complex homolog 2 (Drosophila)
-ATXN7	3	3p14.1	0	63850233	63989138	ataxin 7
-AWT1	NA	NA	NA	NA	NA	NA
-BDNF	11	11p14.1	1	27676440	27743605	brain-derived neurotrophic factor
-BEGAIN	14	14q32.2	1	101003484	101036131	brain-enriched guanylate kinase-associated homolog (rat)
-BLCAP	20	20q11.23	1	36145819	36156333	bladder cancer associated protein
-BRD2	6	6p21.32	0	32936437	32949282	bromodomain containing 2
+ABCC9	12	12p12.1	-	21950335	22094336	ATP-binding cassette, sub-family C (CFTR/MRP), member 9
+ABCG8	2	2p21	+	44066103	44105605	ATP-binding cassette, sub-family G (WHITE), member 8
+ACD	16	16q22.1	-	67691415	67694713	adrenocortical dysplasia homolog (mouse)
+ADAMTS16	5	5p15.32	+	5140443	5320417	ADAM metallopeptidase with thrombospondin type 1 motif, 16
+AIM1	6	6q21	+	106959730	107018326	absent in melanoma 1
+ALDH1L1	3	3q21.3	-	125822412	125916837	aldehyde dehydrogenase 1 family, member L1
+AMPD3	11	11p15.4	+	10329860	10529126	adenosine monophosphate deaminase 3
+ANO1	11	11q13.3	+	69924408	70035634	anoctamin 1, calcium activated chloride channel
+APBA1	9	9q21.11	-	72042446	72287222	amyloid beta (A4) precursor protein-binding, family A, member 1
+APC	5	5q22.2	+	112043195	112181936	adenomatous polyposis coli
+ASB4	7	7q21.3	+	95107756	95169544	ankyrin repeat and SOCS box containing 4
+ASCL2	11	11p15.5	-	2289725	2292182	achaete-scute complex homolog 2 (Drosophila)
+ATP10A	15	15q12	-	25922420	26110317	ATPase, class V, type 10A
+ATXN7	3	3p14.1	+	63850233	63989138	ataxin 7
+ATXN8OS	13	13q21.33	+	70681345	70713561	ATXN8 opposite strand (non-protein coding)
+B4GALNT4	11	11p15.5	+	369796	382116	beta-1,4-N-acetyl-galactosaminyl transferase 4
+BDNF	11	11p14.1	-	27676440	27743605	brain-derived neurotrophic factor
+BEGAIN	14	14q32.2	-	101003486	101053750	brain-enriched guanylate kinase-associated homolog (rat)
+BLCAP	20	20q11.23	-	36120874	36156333	bladder cancer associated protein
+BMP8B	1	1p34.2	-	40222854	40254533	bone morphogenetic protein 8b
+BRD2	6	6p21.32	+	32936437	32949282	bromodomain containing 2
+BTNL2	6	6p21.32	-	32361740	32374905	butyrophilin-like 2 (MHC class II associated)
+C10orf91	10	10q26.3	+	134257831	134262912	chromosome 10 open reading frame 91
 C19MC	NA	NA	NA	NA	NA	NA
-CALCR	7	7q21.3	1	93053799	93204042	calcitonin receptor
-CASD1	7	7q21.3	0	94139170	94186331	CAS1 domain containing 1
-CD44	11	11p13	0	35160417	35253949	CD44 molecule (Indian blood group)
-CD81	11	11p15.5	0	2398547	2418649	CD81 molecule
-CDKN1C	11	11p15.4	1	2904448	2906995	cyclin-dependent kinase inhibitor 1C (p57, Kip2)
-CNTNAP2	7	7q35	0	145813453	148118090	contactin associated protein-like 2
-COMMD1	2	2p15	0	62132803	62363205	copper metabolism (Murr1) domain containing 1
-COPG2	7	7q32.2	1	130146079	130353598	coatomer protein complex, subunit gamma 2
-COPG2IT1	NA	NA	NA	NA	NA	NA
-CPA4	7	7q32.2	0	129932974	129964020	carboxypeptidase A4
-CTNNA3	10	10q21.3	1	67679725	69455949	catenin (cadherin-associated protein), alpha 3
-DCN	12	12q21.33	1	91539035	91576806	decorin
-DDC	7	7p12.1	1	50526134	50633154	dopa decarboxylase (aromatic L-amino acid decarboxylase)
-DHCR7	11	11q13.4	1	71145457	71159477	7-dehydrocholesterol reductase
-DIO3	14	14q32.31	0	102027688	102029789	deiodinase, iodothyronine, type III
-DIRAS3	1	1p31.3	1	68511645	68516460	DIRAS family, GTP-binding RAS-like 3
-DLGAP2	8	8p23.3	0	1449569	1656642	discs, large (Drosophila) homolog-associated protein 2
-DLK1	14	14q32.2	0	101193202	101201467	delta-like 1 homolog (Drosophila)
-DLX5	7	7q21.3	1	96649702	96654143	distal-less homeobox 5
-DNMT1	19	19p13.2	1	10244022	10305755	DNA (cytosine-5-)-methyltransferase 1
-DSCR3	21	21q22.13	1	38595726	38639833	Down syndrome critical region gene 3
-EPS15	1	1p32.3	1	51819935	51984995	epidermal growth factor receptor pathway substrate 15
-FLJ13639	NA	NA	NA	NA	NA	NA
-GAB1	4	4q31.21	0	144257983	144395718	GRB2-associated binding protein 1
-GABRB3	15	15q12	1	26788693	27018935	gamma-aminobutyric acid (GABA) A receptor, beta 3
-GNAL	18	18p11.21	0	11689136	11883144	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type
-GNAS1	NA	NA	NA	NA	NA	NA
-GNGT1	7	7q21.3	0	93535820	93540485	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1
-GPR1	2	2q33.3	1	207040040	207082771	G protein-coupled receptor 1
-GRB10	7	7p12.1	1	50657760	50861159	growth factor receptor-bound protein 10
-H19	NA	NA	NA	NA	NA	NA
+C9orf116	9	9q34.3	-	138387027	138393580	chromosome 9 open reading frame 116
+C9orf85	9	9q21.13	+	74526426	74600970	chromosome 9 open reading frame 85
+CALCR	7	7q21.3	-	93053799	93204042	calcitonin receptor
+CASD1	7	7q21.3	+	94138531	94186331	CAS1 domain containing 1
+CCDC85A	2	2p16.1	+	56411258	56613308	coiled-coil domain containing 85A
+CD44	11	11p13	+	35160417	35253949	CD44 molecule (Indian blood group)
+CD81	11	11p15.5	+	2397407	2418649	CD81 molecule
+CDH18	5	5p14.3	-	19473060	20575982	cadherin 18, type 2
+CDK4	12	12q14.1	-	58141510	58149796	cyclin-dependent kinase 4
+CDKN1C	11	11p15.4	-	2904443	2907111	cyclin-dependent kinase inhibitor 1C (p57, Kip2)
+CELF4	18	18q12.2	-	34823010	35146000	CUGBP, Elav-like family member 4
+CFAP46	NA	NA	NA	NA	NA	NA
+CHMP2A	19	19q13.43	-	59062933	59066491	charged multivesicular body protein 2A
+CHST8	19	19q13.11	+	34112861	34264414	carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 8
+CNTNAP2	7	7q35	+	145813453	148118090	contactin associated protein-like 2
+COL9A3	20	20q13.33	+	61447596	61472511	collagen, type IX, alpha 3
+COMMD1	2	2p15	+	62115859	62374382	copper metabolism (Murr1) domain containing 1
+COPG2	7	7q32.2	-	130146089	130353598	coatomer protein complex, subunit gamma 2
+COPG2IT1	HG1308_PATCH	NA	+	130207103	130210545	COPG2 imprinted transcript 1 (non-protein coding)
+CPA4	7	7q32.2	+	129932974	129964020	carboxypeptidase A4
+CSF2	5	5q31.1	+	131409483	131411859	colony stimulating factor 2 (granulocyte-macrophage)
+CTNNA3	10	10q21.3	-	67672276	69455927	catenin (cadherin-associated protein), alpha 3
+CYP1B1	2	2p22.2	-	38294116	38337044	cytochrome P450, family 1, subfamily B, polypeptide 1
+DCN	12	12q21.33	-	91539025	91576900	decorin
+DDC	7	7p12.1	-	50526134	50633154	dopa decarboxylase (aromatic L-amino acid decarboxylase)
+DGCR6	22	22q11.21	+	18893541	18901751	DiGeorge syndrome critical region gene 6
+DGCR6L	22	22q11.21	-	20301799	20307603	DiGeorge syndrome critical region gene 6-like
+DHCR7	11	11q13.4	-	71139239	71163914	7-dehydrocholesterol reductase
+DHRS12	13	13q14.3	-	52342129	52378293	dehydrogenase/reductase (SDR family) member 12
+DIO3	14	14q32.31	+	102027688	102029789	deiodinase, iodothyronine, type III
+DIRAS3	1	1p31.3	-	68511645	68517314	DIRAS family, GTP-binding RAS-like 3
+DLGAP2	8	8p23.3	+	1449532	1656642	discs, large (Drosophila) homolog-associated protein 2
+DLK1	14	14q32.2	+	101192042	101201539	delta-like 1 homolog (Drosophila)
+DLX5	7	7q21.3	-	96649704	96654409	distal-less homeobox 5
+DNMT1	19	19p13.2	-	10244021	10341962	DNA (cytosine-5-)-methyltransferase 1
+DSCR3	21	21q22.13	-	38595721	38640262	Down syndrome critical region gene 3
+DVL1	1	1p36.33	-	1270656	1284730	dishevelled, dsh homolog 1 (Drosophila)
+E2F7	12	12q21.2	-	77415027	77459360	E2F transcription factor 7
+EGFL7	9	9q34.3	+	139553308	139567130	EGF-like-domain, multiple 7
+EPS15	1	1p32.3	-	51819935	51985000	epidermal growth factor receptor pathway substrate 15
+EVX1	7	7p15.2	+	27282164	27290112	even-skipped homeobox 1
+FAM50B	6	6p25.2	+	3849620	3851551	family with sequence similarity 50, member B
+FASTK	7	7q36.1	-	150773711	150777953	Fas-activated serine/threonine kinase
+FBRSL1	12	12q24.33	+	133066137	133161774	fibrosin-like 1
+FBRSL1	12	12q24.33	+	133066137	133161774	fibrosin-like 1
+FERMT2	14	14q22.1	-	53323986	53419153	fermitin family member 2
+FGFRL1	4	4p16.3	+	1003724	1020685	fibroblast growth factor receptor-like 1
+FOXF1	16	16q24.1	+	86544133	86548076	forkhead box F1
+FOXG1	14	14q12	+	29235050	29238870	forkhead box G1
+FUCA1	1	1p36.11	-	24171567	24194784	fucosidase, alpha-L- 1, tissue
+GAB1	4	4q31.21	+	144257915	144395721	GRB2-associated binding protein 1
+GABRA5	15	15q12	+	27111510	27194354	gamma-aminobutyric acid (GABA) A receptor, alpha 5
+GABRB3	15	15q12	-	26788693	27184686	gamma-aminobutyric acid (GABA) A receptor, beta 3
+GABRG3	15	15q12	+	27216429	27778373	gamma-aminobutyric acid (GABA) A receptor, gamma 3
+GAREM	18	18q12.1	-	29704840	30050447	NA
+GATA3	10	10p14	+	8095567	8117161	GATA binding protein 3
+GATM	15	15q21.1	-	45653322	45694525	glycine amidinotransferase (L-arginine:glycine amidinotransferase)
+GDAP1L1	20	20q13.12	+	42875887	42909013	ganglioside induced differentiation associated protein 1-like 1
+GFI1	1	1p22.1	-	92940319	92952433	growth factor independent 1 transcription repressor
+GLI3	7	7p14.1	-	42000548	42277469	GLI family zinc finger 3
+GLIS3	9	9p24.2	-	3824127	4348392	GLIS family zinc finger 3
+GNAL	18	18p11.21	+	11688955	11885684	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type
+GNAS	20	20q13.32	+	57414773	57486247	GNAS complex locus
+GNAS	20	20q13.32	+	57414773	57486247	GNAS complex locus
+GNAS-AS1	20	20q13.32	-	57393974	57425958	GNAS antisense RNA 1 (non-protein coding)
+GNAS-AS1	20	20q13.32	-	57393974	57425958	GNAS antisense RNA 1 (non-protein coding)
+GNGT1	7	7q21.3	+	93220885	93540577	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1
+GPR1	2	2q33.3	-	207040040	207082771	G protein-coupled receptor 1
+GPT	8	8q24.3	+	145728356	145732557	glutamic-pyruvate transaminase (alanine aminotransferase)
+GRB10	7	7p12.1	-	50657760	50861159	growth factor receptor-bound protein 10
+H19	11	11p15.5	-	2016406	2022700	H19, imprinted maternally expressed transcript (non-protein coding)
 H73492	NA	NA	NA	NA	NA	NA
-HFE	6	6p22.2	0	26087509	26095469	hemochromatosis
-HM13	20	20q11.21	0	30102241	30157370	histocompatibility (minor) 13
-HTR2A	13	13q14.2	1	47407513	47471169	5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled
+HES1	3	3q29	+	193853934	193856521	hairy and enhancer of split 1, (Drosophila)
+HFE	6	6p22.2	+	26087509	26098571	hemochromatosis
+HIST3H2BB	1	1q42.13	+	228645808	228646259	histone cluster 3, H2bb
+HM13	20	20q11.21	+	30102231	30157370	histocompatibility (minor) 13
+HOXA11	7	7p15.2	-	27221129	27224842	homeobox A11
+HOXA2	7	7p15.2	-	27139721	27142430	homeobox A2
+HOXA3	7	7p15.2	-	27145803	27192200	homeobox A3
+HOXA4	7	7p15.2	-	27168126	27170418	homeobox A4
+HOXA5	7	7p15.2	-	27180671	27183287	homeobox A5
+HOXB2	17	17q21.32	-	46618256	46623441	homeobox B2
+HOXB3	17	17q21.32	-	46626232	46682274	homeobox B3
+HOXC4	12	12q13.13	+	54410715	54449813	homeobox C4
+HOXC9	12	12q13.13	+	54388679	54397121	homeobox C9
+HSPA6	1	1q23.3	+	161494036	161496681	heat shock 70kDa protein 6 (HSP70B')
+HTR2A	13	13q14.2	-	47405685	47471169	5-hydroxytryptamine (serotonin) receptor 2A, G protein-coupled
 HYMAI	NA	NA	NA	NA	NA	NA
-IDDM10	NA	NA	NA	NA	NA	NA
 IDDM8	NA	NA	NA	NA	NA	NA
-IGF2	11	11p15.5	1	2150347	2170833	insulin-like growth factor 2 (somatomedin A)
-IGF2AS	NA	NA	NA	NA	NA	NA
-IGF2R	6	6q25.3	0	160390131	160527583	insulin-like growth factor 2 receptor
-IL4R	16	16p12.1	0	27325251	27376099	interleukin 4 receptor
-IMPACT	18	18q11.2	0	22006609	22033495	Impact homolog (mouse)
-INPP5F	10	10q26.11	0	121485609	121588659	inositol polyphosphate-5-phosphatase F
-INS	11	11p15.5	1	2181009	2182439	insulin
-ITUP1	NA	NA	NA	NA	NA	NA
-KCNK9	8	8q24.3	1	140624804	140715299	potassium channel, subfamily K, member 9
-KCNQ1	11	11p15.5	0	2466221	2870340	potassium voltage-gated channel, KQT-like subfamily, member 1
-KCNQ1DN	NA	NA	NA	NA	NA	NA
-KCNQ1OT1	NA	NA	NA	NA	NA	NA
-KLF14	7	7q32.3	1	130417396	130418888	Kruppel-like factor 14
-L211	NA	NA	NA	NA	NA	NA
-L3MBTL	NA	NA	NA	NA	NA	NA
-LGALS14	19	19q13.2	0	40194946	40200088	lectin, galactoside-binding, soluble, 14
-LGALS8	1	1q43	0	236681514	236716281	lectin, galactoside-binding, soluble, 8
-LIN28B	6	6q16.3	0	105404923	105531206	lin-28 homolog B (C. elegans)
-LRRTM1	2	2p12	1	80529003	80531487	leucine rich repeat transmembrane neuronal 1
-MAGEL2	15	15q11.2	1	23888696	23892993	MAGE-like 2
-MAGI2	7	7q21.11	1	77646374	79082890	membrane associated guanylate kinase, WW and PDZ domain containing 2
-MAS1	6	6q25.3	0	160327974	160329108	MAS1 oncogene
-MEG3	NA	NA	NA	NA	NA	NA
-MEG8	NA	NA	NA	NA	NA	NA
-MEST	7	7q32.2	0	130126046	130146133	mesoderm specific transcript homolog (mouse)
-MESTIT1	NA	NA	NA	NA	NA	NA
-MIR483	NA	NA	NA	NA	NA	NA
-MKRN3	15	15q11.2	0	23810454	23813167	makorin ring finger protein 3
-MS4A2	11	11q12.1	0	59856137	59865940	membrane-spanning 4-domains, subfamily A, member 2
-MYCN	2	2p24.3	0	16080683	16087129	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)
-NAA60	NA	NA	NA	NA	NA	NA
-NAP1L5	4	4q22.1	1	89617066	89619023	nucleosome assembly protein 1-like 5
-NDN	15	15q11.2	1	23930554	23932450	necdin homolog (mouse)
-NDUFAF4	6	6q16.1	1	97337187	97345767	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 4
-NLRP2	19	19q13.42	0	55476652	55512510	NLR family, pyrin domain containing 2
-NNAT	20	20q11.23	0	36149607	36152092	neuronatin
-NPAP1	NA	NA	NA	NA	NA	NA
-NTM	11	11q25	0	131240371	132206716	neurotrimin
-OSBPL1A	18	18q11.2	1	21742009	21977833	oxysterol binding protein-like 1A
-OSBPL5	11	11p15.4	1	3108346	3186582	oxysterol binding protein-like 5
-PAPPA2	1	1q25.2	0	176432307	176811972	pappalysin 2
-PDGFC	4	4q32.1	1	157682763	157892546	platelet derived growth factor C
-PEG10	7	7q21.3	0	94285637	94299007	paternally expressed 10
-PEG3	19	19q13.43	1	57321445	57352094	paternally expressed 3
-PHACTR2	6	6q24.2	0	143929317	144152322	phosphatase and actin regulator 2
-PHF11	13	13q14.2	0	50069801	50103117	PHD finger protein 11
-PHLDA2	11	11p15.4	1	2949503	2950650	pleckstrin homology-like domain, family A, member 2
-PLAGL1	6	6q24.2	1	144261437	144385735	pleiomorphic adenoma gene-like 1
-PON1	7	7q21.3	1	94927669	94953884	paraoxonase 1
-PON2	7	7q21.3	1	95034174	95064384	paraoxonase 2
-PON3	7	7q21.3	1	94989184	95025687	paraoxonase 3
-PPP1R9A	7	7q21.3	0	94536949	94925727	protein phosphatase 1, regulatory subunit 9A
-PRIM2	6	6p11.2	0	57182415	57512702	primase, DNA, polypeptide 2 (58kDa)
-PWRN1	NA	NA	NA	NA	NA	NA
-PWRN2	NA	NA	NA	NA	NA	NA
-RASGRF1	15	15q25.1	1	79252289	79383215	Ras protein-specific guanine nucleotide-releasing factor 1
-RASSF1	3	3p21.31	1	50367217	50378367	Ras association (RalGDS/AF-6) domain family member 1
-RB1	13	13q14.2	0	48877883	49056026	retinoblastoma 1
-RHOBTB3	5	5q15	0	95066850	95132071	Rho-related BTB domain containing 3
-RTL1	14	14q32.2	1	101346992	101351184	retrotransposon-like 1
-SBK1	16	16p11.2	0	28303840	28335170	SH3-binding domain kinase 1
-SCA8	NA	NA	NA	NA	NA	NA
-SDHD	11	11q23.1	0	111957571	111966518	succinate dehydrogenase complex, subunit D, integral membrane protein
-SFMBT2	10	10p14	1	7200586	7453448	Scm-like with four mbt domains 2
-SFRP2	4	4q31.3	1	154701742	154710228	secreted frizzled-related protein 2
-SGCE	7	7q21.3	1	94214536	94285521	sarcoglycan, epsilon
-SLC22A18AS	11	11p15.4	1	2909327	2925175	solute carrier family 22 (organic cation transporter), member 18 antisense
-SLC22A2	6	6q25.3	1	160637794	160679963	solute carrier family 22 (organic cation transporter), member 2
-SLC22A3	6	6q25.3	0	160769425	160876014	solute carrier family 22 (extraneuronal monoamine transporter), member 3
-SLC38A4	12	12q13.11	1	47158544	47219780	solute carrier family 38, member 4
-SMPD1	11	11p15.4	0	6411644	6416228	sphingomyelin phosphodiesterase 1, acid lysosomal
-SNURF	15	15q11.2	0	25200070	25223729	SNRPN upstream reading frame
-SPINK5	5	5q32	0	147443535	147516925	serine peptidase inhibitor, Kazal type 5
-SPTLC3	20	20p12.1	0	12989627	13147411	serine palmitoyltransferase, long chain base subunit 3
-STOX1	10	10q21.3	0	70587294	70655209	storkhead box 1
-TCEB3C	18	18q21.1	1	44554573	44556449	transcription elongation factor B polypeptide 3C (elongin A3)
-TCOF1	5	5q32	0	149737202	149779871	Treacher Collins-Franceschetti syndrome 1
-TFPI2	7	7q21.3	1	93515745	93520065	tissue factor pathway inhibitor 2
-TGFB3	14	14q24.3	1	76424442	76448092	transforming growth factor, beta 3
-TH	11	11p15.5	1	2185159	2193035	tyrosine hydroxylase
-TP73	1	1p36.32	0	3569129	3652765	tumor protein p73
-TRPM5	11	11p15.5	1	2425745	2444275	transient receptor potential cation channel, subfamily M, member 5
-TSPAN32	11	11p15.5	0	2323243	2339430	tetraspanin 32
-TSPEAR	21	21q22.3	1	45917775	46131495	thrombospondin-type laminin G domain and EAR repeats
-TSSC4	11	11p15.5	0	2423523	2425106	tumor suppressing subtransferable candidate 4
-U2AF1L1	NA	NA	NA	NA	NA	NA
-UBE3A	15	15q11.2	1	25582396	25684175	ubiquitin protein ligase E3A
-UPD	NA	NA	NA	NA	NA	NA
-USP29	19	19q13.43	0	57631509	57643294	ubiquitin specific peptidase 29
-W89101	NA	NA	NA	NA	NA	NA
-WIF1	12	12q14.3	1	65444404	65515346	WNT inhibitory factor 1
-ZFAT	8	8q24.22	1	135490031	135725292	zinc finger and AT hook domain containing
-ZNF215	11	11p15.4	0	6947654	6979278	zinc finger protein 215
-ZNF331	19	19q13.42	0	54024177	54083523	zinc finger protein 331
-ZNF597	16	16p13.3	1	3486110	3493490	zinc finger protein 597
-ABCC9	12	12p12.1	1	21950323	22089628	ATP-binding cassette, sub-family C (CFTR/MRP), member 9
-ABCG8	2	2p21	0	44066103	44105605	ATP-binding cassette, sub-family G (WHITE), member 8
-ACD	16	16q22.1	1	67691415	67694718	adrenocortical dysplasia homolog (mouse)
-ADAMTS16	5	5p15.32	0	5140443	5320412	ADAM metallopeptidase with thrombospondin type 1 motif, 16
-ALDH1L1	3	3q21.3	1	125822408	125899485	aldehyde dehydrogenase 1 family, member L1
-APBA1	9	9q21.11	1	72042449	72287275	amyloid beta (A4) precursor protein-binding, family A, member 1
-ATP10A	15	15q12	1	25923859	26108349	ATPase, class V, type 10A
-B4GALNT4	11	11p15.5	0	369795	382117	beta-1,4-N-acetyl-galactosaminyl transferase 4
-BMP8B	1	1p34.2	1	40223903	40254533	bone morphogenetic protein 8b
-BRP44L	6	6q27	1	166778407	166796486	brain protein 44-like
-BRUNOL4	NA	NA	NA	NA	NA	NA
-BTNL2	6	6p21.32	1	32362513	32374900	butyrophilin-like 2 (MHC class II associated)
-C10orf91	10	10q26.3	0	134258714	134261825	chromosome 10 open reading frame 91
-C10orf93	10	10q26.3	1	134742689	134756089	NA
-C16orf57	16	16q21	0	58035277	58055527	chromosome 16 open reading frame 57
-C20orf20	20	20q13.33	0	61427805	61431945	chromosome 20 open reading frame 20
-C20orf82	NA	NA	NA	NA	NA	NA
-C6orf117	NA	NA	NA	NA	NA	NA
-C9orf116	9	9q34.3	1	138387026	138391761	chromosome 9 open reading frame 116
-C9orf85	9	9q21.13	0	74526423	74588373	chromosome 9 open reading frame 85
-CCDC85A	2	2p16.1	0	56411258	56613309	coiled-coil domain containing 85A
-CDH18	5	5p14.3	1	19473140	19988353	cadherin 18, type 2
-CDK4	12	12q14.1	1	58142003	58146164	cyclin-dependent kinase 4
-CHMP2A	19	19q13.43	1	59062933	59066486	charged multivesicular body protein 2A
-CHST8	19	19q13.11	0	34112861	34264414	carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 8
-COL9A3	20	20q13.33	0	61448414	61472511	collagen, type IX, alpha 3
-CSF2	5	5q31.1	0	131409485	131411859	colony stimulating factor 2 (granulocyte-macrophage)
-CYP1B1	2	2p22.2	1	38294746	38303323	cytochrome P450, family 1, subfamily B, polypeptide 1
-DGCR6	22	22q11.21	0	18893736	18899601	DiGeorge syndrome critical region gene 6
-DGCR6L	22	22q11.21	1	20301761	20307628	DiGeorge syndrome critical region gene 6-like
-DVL1	1	1p36.33	1	1270658	1284492	dishevelled, dsh homolog 1 (Drosophila)
-E2F7	12	12q21.2	1	77415026	77459360	E2F transcription factor 7
-EGFL7	9	9q34.3	0	139557377	139567130	EGF-like-domain, multiple 7
-EVX1	7	7p15.2	0	27282164	27286192	even-skipped homeobox 1
-FAM50B	6	6p25.2	0	3849632	3851551	family with sequence similarity 50, member B
-FAM59A	18	18q12.1	1	29843484	30050447	family with sequence similarity 59, member A
-FAM70B	13	13q34	0	114462216	114514899	family with sequence similarity 70, member B
-FASTK	7	7q36.1	1	150773708	150777951	Fas-activated serine/threonine kinase
-FBRSL1	12	12q24.33	0	133067157	133161774	fibrosin-like 1
-FERMT2	14	14q22.1	1	53323989	53417815	fermitin family member 2
-FGFRL1	4	4p16.3	0	1005610	1020686	fibroblast growth factor receptor-like 1
-FLJ20464	NA	NA	NA	NA	NA	NA
-FLJ40296	NA	NA	NA	NA	NA	NA
-FLJ46321	NA	NA	NA	NA	NA	NA
-FOXF1	16	16q24.1	0	86544133	86548070	forkhead box F1
-FOXG1	14	14q12	0	29236287	29238871	forkhead box G1
-FUCA1	1	1p36.11	1	24171567	24194859	fucosidase, alpha-L- 1, tissue
-GABRA5	15	15q12	0	27111866	27194357	gamma-aminobutyric acid (GABA) A receptor, alpha 5
-GABRG3	15	15q12	0	27216429	27778373	gamma-aminobutyric acid (GABA) A receptor, gamma 3
-GATA3	10	10p14	0	8096667	8117164	GATA binding protein 3
-GATM	15	15q21.1	1	45653322	45670980	glycine amidinotransferase (L-arginine:glycine amidinotransferase)
-GDAP1L1	20	20q13.12	0	42875908	42909013	ganglioside induced differentiation associated protein 1-like 1
-GFI1	1	1p22.1	1	92940318	92952433	growth factor independent 1 transcription repressor
-GLI3	7	7p14.1	1	42000547	42276618	GLI family zinc finger 3
-GLIS3	9	9p24.2	1	3824128	4300035	GLIS family zinc finger 3
-GNAS	20	20q13.32	0	57414795	57486250	GNAS complex locus
-GNASAS	NA	NA	NA	NA	NA	NA
-GPT	8	8q24.3	0	145729465	145732555	glutamic-pyruvate transaminase (alanine aminotransferase)
-HES1	3	3q29	0	193853931	193856401	hairy and enhancer of split 1, (Drosophila)
-HIST3H2BB	1	1q42.13	0	228645808	228646259	histone cluster 3, H2bb
-HOXA11	7	7p15.2	1	27220776	27224835	homeobox A11
-HOXA2	7	7p15.2	1	27139973	27142394	homeobox A2
-HOXA3	7	7p15.2	1	27145809	27166639	homeobox A3
-HOXA4	7	7p15.2	1	27168126	27170399	homeobox A4
-HOXA5	7	7p15.2	1	27180671	27183287	homeobox A5
-HOXB2	17	17q21.32	1	46620017	46622393	homeobox B2
-HOXB3	17	17q21.32	1	46626232	46651810	homeobox B3
-HOXC4	12	12q13.13	0	54410642	54449814	homeobox C4
-HOXC9	12	12q13.13	0	54393877	54397121	homeobox C9
-HSPA6	1	1q23.3	0	161494036	161496687	heat shock 70kDa protein 6 (HSP70B')
-IFITM1	11	11p15.5	0	313991	315272	interferon induced transmembrane protein 1
-INPP5F V2	NA	NA	NA	NA	NA	NA
+IFITM1	11	11p15.5	+	313506	315272	interferon induced transmembrane protein 1
+IGF2	11	11p15.5	-	2150342	2170833	insulin-like growth factor 2 (somatomedin A)
+IGF2-AS	11	11p15.5	+	2161731	2169894	NA
+IGF2R	6	6q25.3	+	160390131	160534539	insulin-like growth factor 2 receptor
+IL2RA	10	10p15.1	-	6052652	6104288	interleukin 2 receptor, alpha
+IL4R	16	16p12.1	+	27324989	27376099	interleukin 4 receptor
+IMPACT	18	18q11.2	+	22006580	22033499	Impact homolog (mouse)
+INPP5F	10	10q26.11	+	121485609	121588652	inositol polyphosphate-5-phosphatase F
+INS	11	11p15.5	-	2181009	2182571	insulin
 IRAIN	NA	NA	NA	NA	NA	NA
-ISM1	20	20p12.1	0	13202418	13281297	isthmin 1 homolog (zebrafish)
-KBTBD3	11	11q22.3	1	105921825	105948465	kelch repeat and BTB (POZ) domain containing 3
-KIAA1530	4	4p16.3	0	1341104	1381837	KIAA1530
-KIAA1545	NA	NA	NA	NA	NA	NA
-LDB1	10	10q24.32	1	103867317	103880210	LIM domain binding 1
-LILRB4	19	19q13.42	0	55174124	55179848	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 4
-LMX1B	9	9q33.3	0	129376722	129463311	LIM homeobox transcription factor 1, beta
+ISM1	20	20p12.1	+	13202418	13281298	isthmin 1 homolog (zebrafish)
+ISM1	20	20p12.1	+	13202418	13281298	isthmin 1 homolog (zebrafish)
+KBTBD3	11	11q22.3	-	105921825	105948492	kelch repeat and BTB (POZ) domain containing 3
+KCNK9	8	8q24.3	-	140613081	140715299	potassium channel, subfamily K, member 9
+KCNK9	8	8q24.3	-	140613081	140715299	potassium channel, subfamily K, member 9
+KCNQ1	11	11p15.5	+	2465914	2870339	potassium voltage-gated channel, KQT-like subfamily, member 1
+KCNQ1DN	11	11p15.4	+	2891263	2893335	KCNQ1 downstream neighbor (non-protein coding)
+KCNQ1OT1	11	11p15.5	-	2629558	2721224	KCNQ1 opposite strand/antisense transcript 1 (non-protein coding)
+KLF14	7	7q32.3	-	130417401	130418888	Kruppel-like factor 14
+KLK3	19	19q13.33	+	51358171	51364020	kallikrein-related peptidase 3
+L211	NA	NA	NA	NA	NA	NA
+L3MBTL1	20	20q13.12	+	42136320	42179590	l(3)mbt-like 1 (Drosophila)
+LDB1	10	10q24.32	-	103867317	103880210	LIM domain binding 1
+LGALS14	19	19q13.2	+	40194946	40200084	lectin, galactoside-binding, soluble, 14
+LGALS8	1	1q43	+	236681300	236716281	lectin, galactoside-binding, soluble, 8
+LILRB4	19	19q13.42	+	55155340	55181810	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 4
+LIN28B	6	6q16.3	+	105404923	105531207	lin-28 homolog B (C. elegans)
+LINC01521	NA	NA	NA	NA	NA	NA
+LMX1B	9	9q33.3	+	129376722	129463311	LIM homeobox transcription factor 1, beta
 LOC100131170	NA	NA	NA	NA	NA	NA
-LY6D	8	8q24.3	1	143866298	143868008	lymphocyte antigen 6 complex, locus D
-MCTS2	NA	NA	NA	NA	NA	NA
-MIMT1	NA	NA	NA	NA	NA	NA
-MIR184	NA	NA	NA	NA	NA	NA
-MIR296	NA	NA	NA	NA	NA	NA
-MIR298	NA	NA	NA	NA	NA	NA
-MIR371A	NA	NA	NA	NA	NA	NA
-MRAP2	6	6q14.2	0	84743420	84800606	melanocortin 2 receptor accessory protein 2
-MYEOV2	2	2q37.3	1	241065980	241075764	myeloma overexpressed 2
-MZF1	19	19q13.43	1	59073284	59084942	myeloid zinc finger 1
-NAP1L4	11	11p15.4	1	2965660	3013607	nucleosome assembly protein 1-like 4
+LRRTM1	2	2p12	-	80515483	80531874	leucine rich repeat transmembrane neuronal 1
+LY6D	8	8q24.3	-	143866296	143868008	lymphocyte antigen 6 complex, locus D
+MAGEL2	15	15q11.2	-	23888691	23891175	MAGE-like 2
+MAGI2	7	7q21.11	-	77646393	79082890	membrane associated guanylate kinase, WW and PDZ domain containing 2
+MAS1	6	6q25.3	+	160327974	160329108	MAS1 oncogene
+MCTS2P	NA	NA	NA	NA	NA	NA
+MCTS2P	NA	NA	NA	NA	NA	NA
+MEG3	14	14q32.2	+	101245747	101327368	maternally expressed 3 (non-protein coding)
+MEG8	14	14q32.2	+	101361107	101402336	maternally expressed 8 (non-protein coding)
+MEST	7	7q32.2	+	130126012	130146133	mesoderm specific transcript homolog (mouse)
+MESTIT1	NA	NA	NA	NA	NA	NA
+MIMT1	19	19q13.43	+	57352270	57359924	MER1 repeat containing imprinted transcript 1 (non-protein coding)
+MIMT1	19	19q13.43	+	57352270	57359924	MER1 repeat containing imprinted transcript 1 (non-protein coding)
+MIR184	15	15q25.1	+	79502130	79502213	microRNA 184
+MIR296	20	20q13.32	-	57392187	57392780	microRNA 296
+MIR298	20	20q13.32	-	57393281	57393368	microRNA 298
+MIR371A	19	19q13.42	+	54290929	54290995	microRNA 371a
+MIR483	11	11p15.5	-	2155364	2155439	microRNA 483
+MKRN3	15	15q11.2	+	23810454	23873064	makorin ring finger protein 3
+MKRN3-AS1	NA	NA	NA	NA	NA	NA
+MPC1	6	6q27	-	166778407	166796486	NA
+MRAP2	6	6q14.2	+	84743475	84800600	melanocortin 2 receptor accessory protein 2
+MRAP2	6	6q14.2	+	84743475	84800600	melanocortin 2 receptor accessory protein 2
+MRGBP	20	20q13.33	+	61427805	61431945	NA
+MS4A2	11	11q12.1	+	59855734	59863444	membrane-spanning 4-domains, subfamily A, member 2
+MYCN	2	2p24.3	+	16080686	16087129	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)
+MYEOV2	2	2q37.3	-	241065980	241076224	myeloma overexpressed 2
+MZF1	19	19q13.43	-	59073298	59084942	myeloid zinc finger 1
+NAA60	16	16p13.3	+	3415099	3536960	N(alpha)-acetyltransferase 60, NatF catalytic subunit
+NAP1L4	11	11p15.4	-	2965667	3013607	nucleosome assembly protein 1-like 4
+NAP1L5	4	4q22.1	-	89617066	89619386	nucleosome assembly protein 1-like 5
+NDN	15	15q11.2	-	23930565	23932450	necdin homolog (mouse)
 NDUFA4P1	NA	NA	NA	NA	NA	NA
-NKAIN3	8	8q12.3	0	63161501	63903628	Na+/K+ transporting ATPase interacting 3
-NKX6-2	10	10q26.3	1	134598320	134599537	NK6 homeobox 2
-OBSCN	1	1q42.13	0	228395861	228566575	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF
-OR11L1	1	1q44	1	248004230	248005198	olfactory receptor, family 11, subfamily L, member 1
-OTX1	2	2p15	0	63277192	63284966	orthodenticle homeobox 1
-PAOX	10	10q26.3	0	135192741	135205198	polyamine oxidase (exo-N4-amino)
-PEG13	NA	NA	NA	NA	NA	NA
-PEX10	1	1p36.32	1	2336241	2344010	peroxisomal biogenesis factor 10
-PHPT1	9	9q34.3	0	139743256	139745490	phosphohistidine phosphatase 1
-PKP3	11	11p15.5	0	394217	404908	plakophilin 3
-PPAP2C	19	19p13.3	1	281043	291435	phosphatidic acid phosphatase type 2C
-PRDM16	1	1p36.32	0	2985742	3355185	PR domain containing 16
-PSIMCT-1	NA	NA	NA	NA	NA	NA
-PTPN14	1	1q41	1	214522039	214725024	protein tyrosine phosphatase, non-receptor type 14
-PURG	8	8p12	1	30853321	30891231	purine-rich element binding protein G
-PWCR1	NA	NA	NA	NA	NA	NA
-PYY2	NA	NA	NA	NA	NA	NA
-RAB1B	11	11q13.2	0	66036056	66044963	RAB1B, member RAS oncogene family
-RBP5	12	12p13.31	1	7276280	7281466	retinol binding protein 5, cellular
-RNU5D-1	NA	NA	NA	NA	NA	NA
-RPL22	1	1p36.31	1	6245080	6259679	ribosomal protein L22
-SALL1	16	16q12.1	1	51169886	51185183	sal-like 1 (Drosophila)
-SANG	NA	NA	NA	NA	NA	NA
-SGK2	20	20q13.12	0	42187635	42214273	serum/glucocorticoid regulated kinase 2
-SIM2	21	21q22.13	0	38071991	38122510	single-minded homolog 2 (Drosophila)
-SLC22A18	11	11p15.4	0	2920951	2946476	solute carrier family 22, member 18
-SLC22A2*	NA	NA	NA	NA	NA	NA
-SLC22A3*	NA	NA	NA	NA	NA	NA
-SLC26A10	12	12q13.3	0	58013693	58019934	solute carrier family 26, member 10
-SLC4A2	7	7q36.1	0	150755299	150773614	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)
+NDUFAF4	6	6q16.1	-	97337189	97345757	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 4
+NKAIN3	8	8q12.3	+	63161150	63912211	Na+/K+ transporting ATPase interacting 3
+NKX6-2	10	10q26.3	-	134598297	134599556	NK6 homeobox 2
+NLRP2	19	19q13.42	+	55464498	55512510	NLR family, pyrin domain containing 2
+NNAT	20	20q11.23	+	36149617	36152092	neuronatin
+NPAP1	15	15q11.2	+	24920541	24928593	NA
+NTM	11	11q25	+	131240373	132206716	neurotrimin
+OBSCN	1	1q42.13	+	228395831	228566577	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF
+OR11L1	1	1q44	-	248004199	248005254	olfactory receptor, family 11, subfamily L, member 1
+OSBPL1A	18	18q11.2	-	21742008	21977844	oxysterol binding protein-like 1A
+OSBPL5	11	11p15.4	-	3108346	3187969	oxysterol binding protein-like 5
+OTX1	2	2p15	+	63277192	63284971	orthodenticle homeobox 1
+PAOX	10	10q26.3	+	135192695	135205198	polyamine oxidase (exo-N4-amino)
+PAPPA2	1	1q25.2	+	176432307	176814735	pappalysin 2
+PDGFC	4	4q32.1	-	157681606	157892546	platelet derived growth factor C
+PEG10	7	7q21.3	+	94285637	94299007	paternally expressed 10
+PEG3	19	19q13.43	-	57321445	57352096	paternally expressed 3
+PEX10	1	1p36.32	-	2336236	2345236	peroxisomal biogenesis factor 10
+PHACTR2	6	6q24.2	+	143857982	144152322	phosphatase and actin regulator 2
+PHF11	13	13q14.2	+	50069746	50103123	PHD finger protein 11
+PHLDA2	11	11p15.4	-	2949503	2950685	pleckstrin homology-like domain, family A, member 2
+PHPT1	9	9q34.3	+	139743176	139745488	phosphohistidine phosphatase 1
+PKP3	11	11p15.5	+	392614	404908	plakophilin 3
+PLAGL1	6	6q24.2	-	144261437	144385735	pleiomorphic adenoma gene-like 1
+PON1	7	7q21.3	-	94926988	95025673	paraoxonase 1
+PON2	7	7q21.3	-	95034175	95064510	paraoxonase 2
+PON3	7	7q21.3	-	94989256	95025680	paraoxonase 3
+PPAP2C	19	19p13.3	-	281040	291393	phosphatidic acid phosphatase type 2C
+PPP1R9A	7	7q21.3	+	94536514	94925727	protein phosphatase 1, regulatory subunit 9A
+PRDM16	1	1p36.32	+	2985732	3355185	PR domain containing 16
+PRIM2	6	6p11.2	+	57179603	57513375	primase, DNA, polypeptide 2 (58kDa)
+PRR20A	13	13q21.1	+	57715052	57718073	proline rich 20A
+PTPN14	1	1q41	-	214522039	214725792	protein tyrosine phosphatase, non-receptor type 14
+PURG	8	8p12	-	30853321	30891231	purine-rich element binding protein G
+PWRN1	15	15q11.2	+	24738284	24897277	Prader-Willi region non-protein coding RNA 1
+PWRN2	15	15q11.2	-	24407901	24415095	Prader-Willi region non-protein coding RNA 2
+PYY2	17	17q11.2	+	26553589	26555091	peptide YY, 2 (seminalplasmin)
+RAB1B	11	11q13.2	+	66036004	66044963	RAB1B, member RAS oncogene family
+RASGRF1	15	15q25.1	-	79252289	79383115	Ras protein-specific guanine nucleotide-releasing factor 1
+RASSF1	3	3p21.31	-	50367219	50378411	Ras association (RalGDS/AF-6) domain family member 1
+RB1	13	13q14.2	+	48877887	49056122	retinoblastoma 1
+RBP5	12	12p13.31	-	7276280	7281538	retinol binding protein 5, cellular
+RHOBTB3	5	5q15	+	95049226	95160087	Rho-related BTB domain containing 3
+RNU5D-1	1	1p34.1	-	45196727	45196842	RNA, U5D small nuclear 1
+RPL22	1	1p36.31	-	6241329	6269449	ribosomal protein L22
+RTL1	14	14q32.2	-	101346992	101351184	retrotransposon-like 1
+SALL1	16	16q12.1	-	51169886	51185278	sal-like 1 (Drosophila)
+SBK1	16	16p11.2	+	28303840	28335170	SH3-binding domain kinase 1
+SDHD	11	11q23.1	+	111957497	111990353	succinate dehydrogenase complex, subunit D, integral membrane protein
+SFMBT2	10	10p14	-	7200586	7453450	Scm-like with four mbt domains 2
+SFRP2	4	4q31.3	-	154701744	154710272	secreted frizzled-related protein 2
+SGCE	7	7q21.3	-	94214542	94285521	sarcoglycan, epsilon
+SGK2	20	20q13.12	+	42187608	42216877	serum/glucocorticoid regulated kinase 2
+SIM2	21	21q22.13	+	38071433	38122218	single-minded homolog 2 (Drosophila)
+SLC22A18	11	11p15.4	+	2920951	2946476	solute carrier family 22, member 18
+SLC22A18AS	11	11p15.4	-	2909010	2924970	solute carrier family 22 (organic cation transporter), member 18 antisense
+SLC22A2	6	6q25.3	-	160592093	160698670	solute carrier family 22 (organic cation transporter), member 2
+SLC22A3	6	6q25.3	+	160769300	160876014	solute carrier family 22 (extraneuronal monoamine transporter), member 3
+SLC26A10	12	12q13.3	+	58013310	58019934	solute carrier family 26, member 10
+SLC38A4	12	12q13.11	-	47158546	47226191	solute carrier family 38, member 4
+SLC4A2	7	7q36.1	+	150754297	150773614	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)
+SMPD1	11	11p15.4	+	6411655	6416228	sphingomyelin phosphodiesterase 1, acid lysosomal
 SNORD107	NA	NA	NA	NA	NA	NA
-SNORD108	NA	NA	NA	NA	NA	NA
-SNORD109A	NA	NA	NA	NA	NA	NA
-SNORD109B	NA	NA	NA	NA	NA	NA
-SNORD115-48	NA	NA	NA	NA	NA	NA
-SNORD115@	NA	NA	NA	NA	NA	NA
-SNORD116@	NA	NA	NA	NA	NA	NA
-SNORD64	NA	NA	NA	NA	NA	NA
-SNRPN	15	15q11.2	0	25068794	25223729	small nuclear ribonucleoprotein polypeptide N
-SOX8	16	16p13.3	0	1031808	1036979	SRY (sex determining region Y)-box 8
-SPON2	4	4p16.3	1	1160720	1202750	spondin 2, extracellular matrix protein
-TIGD1	2	2q37.1	1	233412779	233415226	tigger transposable element derived 1
-TMEM52	1	1p36.33	1	1849029	1850740	transmembrane protein 52
-TMEM60	7	7q11.23	1	77423045	77427747	transmembrane protein 60
-TMEM88	17	17p13.1	0	7758384	7759417	transmembrane protein 88
-TSHZ3	19	19q12	1	31765851	31840190	teashirt zinc finger homeobox 3
-TSIX	NA	NA	NA	NA	NA	NA
-VAX2	2	2p13.3	0	71127720	71160576	ventral anterior homeobox 2
-VENTX	10	10q26.3	0	135051408	135055433	VENT homeobox
-WDR8	NA	NA	NA	NA	NA	NA
-WT1-Alt trans	NA	NA	NA	NA	NA	NA
-XIST	NA	NA	NA	NA	NA	NA
-ZC3H12C	11	11q22.3	0	109964087	110042566	zinc finger CCCH-type containing 12C
-ZDBF2	2	2q33.3	0	207139523	207179148	zinc finger, DBF-type containing 2
-ZFAT-AS1	NA	NA	NA	NA	NA	NA
-ZFP36L2	2	2p21	1	43449541	43453745	zinc finger protein 36, C3H type-like 2
-ZIC1	3	3q24	0	147127181	147134506	Zic family member 1
-ZIM2	19	19q13.43	1	57285915	57352097	zinc finger, imprinted 2
-ZIM3	19	19q13.43	1	57645464	57656570	zinc finger, imprinted 3
-ZNF127AS	NA	NA	NA	NA	NA	NA
-ZNF225	19	19q13.31	0	44617548	44637255	zinc finger protein 225
-ZNF229	19	19q13.31	1	44930426	44952665	zinc finger protein 229
-ZNF264	19	19q13.43	0	57702868	57734214	zinc finger protein 264
+SNORD108	15	15q11.2	+	25232072	25232142	small nucleolar RNA, C/D box 108
+SNORD109A	15	15q11.2	+	25287065	25287575	small nucleolar RNA, C/D box 109A
+SNORD109B	15	15q11.2	+	25523490	25523556	small nucleolar RNA, C/D box 109B
+SNORD115	10	10p11.23	+	29864235	29864310	NA
+SNORD115-48	15	15q11.2	+	25514930	25515005	small nucleolar RNA, C/D box 115-48
+SNORD116	1	1q41	-	215803368	215803459	NA
+SNORD116	1	1q41	-	215803368	215803459	NA
+SNORD64	1	1q23.2	-	159821696	159821762	small nucleolar RNA, C/D box 64
+SNRPN	15	15q11.2	+	25068794	25223870	small nuclear ribonucleoprotein polypeptide N
+SNURF	15	15q11.2	+	25200133	25223729	SNRPN upstream reading frame
+SOX8	16	16p13.3	+	1031808	1036979	SRY (sex determining region Y)-box 8
+SPATA31D1	9	9q21.32	+	84603687	84610171	NA
+SPINK5	5	5q32	+	147405246	147516852	serine peptidase inhibitor, Kazal type 5
+SPON2	4	4p16.3	-	1160720	1202750	spondin 2, extracellular matrix protein
+SPTLC3	20	20p12.1	+	12989627	13147411	serine palmitoyltransferase, long chain base subunit 3
+STOX1	10	10q21.3	+	70587298	70655188	storkhead box 1
+TCEB3C	18	18q21.1	-	44554573	44556449	transcription elongation factor B polypeptide 3C (elongin A3)
+TCOF1	5	5q32	+	149737202	149779871	Treacher Collins-Franceschetti syndrome 1
+TFPI2	7	7q21.3	-	93514709	93520303	tissue factor pathway inhibitor 2
+TGFB3	14	14q24.3	-	76424442	76449334	transforming growth factor, beta 3
+TH	11	11p15.5	-	2185159	2193107	tyrosine hydroxylase
+TIGD1	2	2q37.1	-	233412779	233415226	tigger transposable element derived 1
+TMEM255B	13	13q34	+	114462216	114514926	NA
+TMEM52	1	1p36.33	-	1849029	1850712	transmembrane protein 52
+TMEM60	7	7q11.23	-	77423045	77427897	transmembrane protein 60
+TMEM88	17	17p13.1	+	7758383	7759417	transmembrane protein 88
+TP73	1	1p36.32	+	3569084	3652765	tumor protein p73
+TRPM5	11	11p15.5	-	2425745	2444275	transient receptor potential cation channel, subfamily M, member 5
+TSHZ3	19	19q12	-	31765851	31840453	teashirt zinc finger homeobox 3
+TSIX	X	Xq13.2	+	73012040	73049066	TSIX transcript, XIST antisense RNA (non-protein coding)
+TSPAN32	11	11p15.5	+	2323227	2339430	tetraspanin 32
+TSPEAR	21	21q22.3	-	45917775	46131495	thrombospondin-type laminin G domain and EAR repeats
+TSSC4	11	11p15.5	+	2421718	2425106	tumor suppressing subtransferable candidate 4
+UBE3A	15	15q11.2	-	25582381	25684128	ubiquitin protein ligase E3A
+UROD	1	1p34.1	+	45477819	45481247	uroporphyrinogen decarboxylase
+USB1	16	16q21	+	58033450	58055522	NA
+USP29	19	19q13.43	+	57630506	57643294	ubiquitin specific peptidase 29
+UVSSA	4	4p16.3	+	1341054	1381837	NA
+VAX2	2	2p13.3	+	71127720	71160576	ventral anterior homeobox 2
+VENTX	10	10q26.3	+	135050908	135055433	VENT homeobox
+W89101	NA	NA	NA	NA	NA	NA
+WIF1	12	12q14.3	-	65444406	65515346	WNT inhibitory factor 1
+WRAP73	1	1p36.32	-	3547331	3569325	WD repeat containing, antisense to TP73
+WT1	11	11p13	-	32409321	32457176	Wilms tumor 1
+XIST	X	Xq13.2	-	73040486	73072588	X (inactive)-specific transcript (non-protein coding)
+ZC3H12C	11	11q22.3	+	109964087	110042566	zinc finger CCCH-type containing 12C
+ZDBF2	2	2q33.3	+	207139387	207179148	zinc finger, DBF-type containing 2
+ZFAT	8	8q24.22	-	135490031	135725292	zinc finger and AT hook domain containing
+ZFAT-AS1	8	8q24.22	+	135610314	135612932	ZFAT antisense RNA 1 (non-protein coding)
+ZFP36L2	2	2p21	-	43449541	43453748	zinc finger protein 36, C3H type-like 2
+ZIC1	3	3q24	+	147111209	147228080	Zic family member 1
+ZIM2	19	19q13.43	-	57285920	57352097	zinc finger, imprinted 2
+ZIM3	19	19q13.43	-	57645464	57656570	zinc finger, imprinted 3
+ZNF215	11	11p15.4	+	6947635	7005863	zinc finger protein 215
+ZNF225	19	19q13.31	+	44616334	44637027	zinc finger protein 225
+ZNF229	19	19q13.31	-	44921685	44952766	zinc finger protein 229
+ZNF264	19	19q13.43	+	57702868	57724724	zinc finger protein 264
+ZNF331	19	19q13.42	+	54024235	54083523	zinc finger protein 331
+ZNF597	16	16p13.3	-	3486104	3493542	zinc finger protein 597
+ZRSR1	5	5q22.2	+	112227313	112228791	zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 1
