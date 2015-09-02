@@ -30,4 +30,5 @@ list of the imprinted genes
 imprinted_genes_mouse.txt -- contains a list of the imprinted genes in mice
 
 imprinted_genes_information_mouse.txt -- contains information for the
-list of imprinted genes in mice
+list of imprinted genes in mice. (This currently doesn't exist because
+I don't have code to calculate this in other taxa.)
