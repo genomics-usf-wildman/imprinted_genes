@@ -26,3 +26,8 @@ imprinted_genes.txt -- contains a list of the imprinted genes
 
 imprinted_genes_information.txt -- contains the information for the
 list of the imprinted genes
+
+imprinted_genes_mouse.txt -- contains a list of the imprinted genes in mice
+
+imprinted_genes_information_mouse.txt -- contains information for the
+list of imprinted genes in mice
