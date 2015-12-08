@@ -4,6 +4,10 @@ args <- commandArgs(trailingOnly=TRUE)
 
 geneimprint <- fread(args[1])
 geneimprint <- geneimprint[!grepl(" ",Gene),]
+
+geneimprint <- geneimprint[Status!="Not Imprinted",]
+geneimprint <- geneimprint[Status!="Unknown",]
+
 parent <- fread(args[2])
 ### fix up the 0 prefixed chromosomes
 parent[,chr:=gsub("^0","",chromosome)]

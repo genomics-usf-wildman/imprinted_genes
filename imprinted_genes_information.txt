@@ -79,7 +79,6 @@ GABRB3	15	15q12	-	26788693	27184686	gamma-aminobutyric acid (GABA) A receptor, b
 GABRG3	15	15q12	+	27216429	27778373	gamma-aminobutyric acid (GABA) A receptor, gamma 3
 GAREM	18	18q12.1	-	29704840	30050447	NA
 GATA3	10	10p14	+	8095567	8117161	GATA binding protein 3
-GATM	15	15q21.1	-	45653322	45694525	glycine amidinotransferase (L-arginine:glycine amidinotransferase)
 GDAP1L1	20	20q13.12	+	42875887	42909013	ganglioside induced differentiation associated protein 1-like 1
 GFI1	1	1p22.1	-	92940319	92952433	growth factor independent 1 transcription repressor
 GLI3	7	7p14.1	-	42000548	42277469	GLI family zinc finger 3
@@ -155,13 +154,11 @@ MEST	7	7q32.2	+	130126012	130146133	mesoderm specific transcript homolog (mouse)
 MESTIT1	NA	NA	NA	NA	NA	NA
 MIMT1	19	19q13.43	+	57352270	57359924	MER1 repeat containing imprinted transcript 1 (non-protein coding)
 MIMT1	19	19q13.43	+	57352270	57359924	MER1 repeat containing imprinted transcript 1 (non-protein coding)
-MIR184	15	15q25.1	+	79502130	79502213	microRNA 184
 MIR296	20	20q13.32	-	57392187	57392780	microRNA 296
 MIR298	20	20q13.32	-	57393281	57393368	microRNA 298
 MIR371A	19	19q13.42	+	54290929	54290995	microRNA 371a
 MIR483	11	11p15.5	-	2155364	2155439	microRNA 483
 MKRN3	15	15q11.2	+	23810454	23873064	makorin ring finger protein 3
-MKRN3-AS1	NA	NA	NA	NA	NA	NA
 MPC1	6	6q27	-	166778407	166796486	NA
 MRAP2	6	6q14.2	+	84743475	84800600	melanocortin 2 receptor accessory protein 2
 MRAP2	6	6q14.2	+	84743475	84800600	melanocortin 2 receptor accessory protein 2
@@ -171,7 +168,6 @@ MYCN	2	2p24.3	+	16080686	16087129	v-myc myelocytomatosis viral related oncogene,
 MYEOV2	2	2q37.3	-	241065980	241076224	myeloma overexpressed 2
 MZF1	19	19q13.43	-	59073298	59084942	myeloid zinc finger 1
 NAA60	16	16p13.3	+	3415099	3536960	N(alpha)-acetyltransferase 60, NatF catalytic subunit
-NAP1L4	11	11p15.4	-	2965667	3013607	nucleosome assembly protein 1-like 4
 NAP1L5	4	4q22.1	-	89617066	89619386	nucleosome assembly protein 1-like 5
 NDN	15	15q11.2	-	23930565	23932450	necdin homolog (mouse)
 NDUFA4P1	NA	NA	NA	NA	NA	NA
@@ -267,7 +263,6 @@ TMEM88	17	17p13.1	+	7758383	7759417	transmembrane protein 88
 TP73	1	1p36.32	+	3569084	3652765	tumor protein p73
 TRPM5	11	11p15.5	-	2425745	2444275	transient receptor potential cation channel, subfamily M, member 5
 TSHZ3	19	19q12	-	31765851	31840453	teashirt zinc finger homeobox 3
-TSIX	X	Xq13.2	+	73012040	73049066	TSIX transcript, XIST antisense RNA (non-protein coding)
 TSPAN32	11	11p15.5	+	2323227	2339430	tetraspanin 32
 TSPEAR	21	21q22.3	-	45917775	46131495	thrombospondin-type laminin G domain and EAR repeats
 TSSC4	11	11p15.5	+	2421718	2425106	tumor suppressing subtransferable candidate 4
@@ -282,7 +277,6 @@ W89101	NA	NA	NA	NA	NA	NA
 WIF1	12	12q14.3	-	65444406	65515346	WNT inhibitory factor 1
 WRAP73	1	1p36.32	-	3547331	3569325	WD repeat containing, antisense to TP73
 WT1	11	11p13	-	32409321	32457176	Wilms tumor 1
-XIST	X	Xq13.2	-	73040486	73072588	X (inactive)-specific transcript (non-protein coding)
 ZC3H12C	11	11q22.3	+	109964087	110042566	zinc finger CCCH-type containing 12C
 ZDBF2	2	2q33.3	+	207139387	207179148	zinc finger, DBF-type containing 2
 ZFAT	8	8q24.22	-	135490031	135725292	zinc finger and AT hook domain containing
@@ -290,11 +284,9 @@ ZFAT-AS1	8	8q24.22	+	135610314	135612932	ZFAT antisense RNA 1 (non-protein codin
 ZFP36L2	2	2p21	-	43449541	43453748	zinc finger protein 36, C3H type-like 2
 ZIC1	3	3q24	+	147111209	147228080	Zic family member 1
 ZIM2	19	19q13.43	-	57285920	57352097	zinc finger, imprinted 2
-ZIM3	19	19q13.43	-	57645464	57656570	zinc finger, imprinted 3
 ZNF215	11	11p15.4	+	6947635	7005863	zinc finger protein 215
 ZNF225	19	19q13.31	+	44616334	44637027	zinc finger protein 225
 ZNF229	19	19q13.31	-	44921685	44952766	zinc finger protein 229
-ZNF264	19	19q13.43	+	57702868	57724724	zinc finger protein 264
 ZNF331	19	19q13.42	+	54024235	54083523	zinc finger protein 331
 ZNF597	16	16p13.3	-	3486104	3493542	zinc finger protein 597
 ZRSR1	5	5q22.2	+	112227313	112228791	zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 1
